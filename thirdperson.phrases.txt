@@ -1,0 +1,11 @@
+"Phrases"
+{
+    "ThirdpersonEnabled"
+    {
+        "en" "{gold}TP {black}» {deepskyblue}Thirdperson{default} is Enabled!"
+    }
+    "FirstpersonEnabled"
+    {
+        "en" "{gold}TP {black}» {deepskyblue}Thirdperson{default} is Disabled!"
+    }
+}
